@@ -262,3 +262,7 @@ body{padding-top:.5rem;padding-bottom:.5rem}
  -khtml-user-select:none;
  -ms-user-select:none;
  -user-select:none;}
+table, th, td {
+  border: 1px solid #838383;
+  text-align-last: center;
+}
